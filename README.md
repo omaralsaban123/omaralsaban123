@@ -25,6 +25,25 @@ Strong communicator with the ability to collaborate effectively.
 <br>
 
 ### 🔨 Languages and Tools:
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img align="left"
+       src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"
+       alt="html"
+       height="42px"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img align="left"
+       src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg"
+       alt="css"
+       height="42px"/>
+</a>
+<a href="https://getbootstrap.com/" target="_blank">
+  <img align="left"
+       src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bootstrap/bootstrap.svg"
+       alt="bootstrap"
+       height="42px"/>
+</a>
 <a href="https://www.php.net/" target="_blank">
   <img align="left"
        src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/php/php.svg"
@@ -37,6 +56,8 @@ Strong communicator with the ability to collaborate effectively.
        alt="laravel"
        height="42px"/>
 </a>
+
+
 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
